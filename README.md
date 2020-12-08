@@ -7,7 +7,7 @@ Citas Pacientes es una aplicaci처n sencilla para la gesti처n de citas de una cl�
 
 ## Aprendizaje
 
-Practicamos la manipulaci처n de componentes y actualizaci처n del estado mediante formularios al tiempo que garantizamos la persistencia de la lista de citas mediante Local Storage
+Practicamos la manipulaci처n de componentes y actualizaci처n del estado mediante formularios, al tiempo que garantizamos la persistencia de la lista de citas mediante Local Storage
 
 ## Estilos
 
