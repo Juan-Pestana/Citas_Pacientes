@@ -1,6 +1,6 @@
 # Citas Pacientes
 
- .
+
 Este proyecto, hace uso de [Create React App](https://github.com/facebook/create-react-app) y se ha realizado con fines foromativos.  
 
 Citas Pacientes es una aplicación sencilla para la gestión de citas de una clínica veterinaria.
